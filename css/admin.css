@@ -1,0 +1,35 @@
+/* 
+* @Author: Marte
+* @Date:   2017-03-10 18:15:54
+* @Last Modified by:   Marte
+* @Last Modified time: 2017-03-10 18:38:17
+*/
+html,body{
+    width:100%;
+    height:100%;    
+}
+.wrap{
+    width:100%;
+    height:100%;
+    background: url(../image/background.jpg) no-repeat center center;
+    background-size:cover;
+    position: relative;
+}
+.wrap .logo{
+    display: block;
+    margin:0 auto;
+}
+.loginBox{
+    width:498px;
+    margin:0 auto;
+    border-radius:8px;
+    background-color:#fff;
+}
+.loginBox .topic{
+    font-size:20px;
+    color:#4da865;
+    text-align: center;
+    height:102px;
+    line-height:102px;
+    margin:0;
+}
