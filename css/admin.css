@@ -2,7 +2,7 @@
 * @Author: Marte
 * @Date:   2017-03-10 18:15:54
 * @Last Modified by:   Marte
-* @Last Modified time: 2017-03-10 18:38:17
+* @Last Modified time: 2017-03-13 11:08:40
 */
 html,body{
     width:100%;
@@ -32,4 +32,8 @@ html,body{
     height:102px;
     line-height:102px;
     margin:0;
+}
+.loginBox form>p{
+    margin:0;
+    padding:0;
 }
